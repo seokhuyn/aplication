@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="time">
+
+        <item>기간선택</item>
+        <item>[단기]</item>
+        <item>[정기]</item>
+
+
+    </string-array>
+
+
+
+</resources>

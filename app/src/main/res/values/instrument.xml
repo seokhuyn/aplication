@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="inst">
+        <item>악기선택</item>
+        <item>바이올린</item>
+        <item>첼로</item>
+        <item>비올라</item>
+        <item>피아노</item>
+        <item>콘트라베이스</item>
+        <item>호른</item>
+        <item>바순</item>
+        <item>클라리넷</item>
+        <item>플룻</item>
+        <item>오보에</item>
+        <item>트럼본</item>
+        <item>트럼펫</item>
+        <item>튜바</item>
+
+
+    </string-array>
+
+
+
+</resources>
